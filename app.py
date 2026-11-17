@@ -964,8 +964,3 @@ st.divider()
 st.caption(
     "Ferramenta independente e não oficial. O cálculo é uma simulação e os valores oficiais devem ser conferidos no SIGAA/UNIFEI."
 )
-
-st.divider()
-st.caption(
-    "Ferramenta independente e não oficial. O cálculo é uma simulação e os valores oficiais devem ser conferidos no SIGAA/UNIFEI."
-)
